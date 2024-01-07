@@ -7,5 +7,4 @@ Pillow
 scikit-image
 tensorflow
 opencv-python
-google-colab
 keras
