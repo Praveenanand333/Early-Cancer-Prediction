@@ -24,7 +24,7 @@ The project is motivated by the transformative capabilities of machine learning 
 - **/Models**: Storing models for future use.
 
 ### Installation:
-1. Clone the repository: `git clone https://github.com/yourusername/early-cancer-detection.git`
+1. Clone the repository: `git clone https://github.com/Praveenanand333/Early-Cancer-Prediction.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 
 ### Dataset:
