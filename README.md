@@ -40,7 +40,4 @@ The project is motivated by the transformative capabilities of machine learning 
 ### License:
 - This project is licensed under the [MIT License](LICENSE).
 
-### Acknowledgments:
-- Special thanks to [list any external libraries or resources used].
 
-Feel free to customize the above readme template according to your project's specific details and requirements.
